@@ -37,7 +37,6 @@ The infrastructure is fully provisioned using **Terraform**, demonstrating a pro
 
 ## Project Structure
 ```bash
-project-root/
 ├── stack1/                 # Infrastructure Foundation
 │   ├── main.tf             # VPC, Aurora Cluster, S3 Bucket
 ├── stack2/                 # GenAI Layer
